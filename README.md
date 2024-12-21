@@ -1,4 +1,4 @@
-![lesnik_utsa](https://i.ibb.co/4JnP9S6/rizonvaloper1hwq3fx0zy2ey85rzqh2v9a7vvmv5e8xpjta033.png "Patience and a little effort!")
+[lesnik_utsa](https://i.ibb.co/4JnP9S6/rizonvaloper1hwq3fx0zy2ey85rzqh2v9a7vvmv5e8xpjta033.png "Patience and a little effort!")
 
 # lesnik | UTSA - rustworthy and high performance validator
 
